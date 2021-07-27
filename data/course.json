@@ -11,7 +11,8 @@
   "department_numbers": [
     "4"
   ],
-  "extra_course_numbers": "4,5,6",
-  "primary_course_number": "2",
+  "course_feature_tags": [
+    "Programming Assignments"
+  ],
   "title": "Course Metadata"
 }
