@@ -1,0 +1,17 @@
+{
+  "level": "Graduate",
+  "instructors": {
+    "content": [
+      "b3cd201d-274d-7ed0-a6aa-9f8653210e5e",
+      "74cd26f5-098e-cf29-5519-5a769585977a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "course title test",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "4,5,6",
+  "primary_course_number": "2",
+  "title": "Course Metadata"
+}
