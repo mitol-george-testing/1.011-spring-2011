@@ -7,12 +7,17 @@
     ],
     "website": "ocw-www"
   },
+  "course_image": {
+    "content": "21685dc2-e51f-40d8-b316-282387e5ef57",
+    "website": null
+  },
   "course_title": "course title test",
   "department_numbers": [
     "4"
   ],
-  "course_feature_tags": [
-    "Programming Assignments"
-  ],
+  "course_image_thumbnail": {
+    "content": "2158cc32-a049-4ab4-b1f8-cc730d674a9e",
+    "website": null
+  },
   "title": "Course Metadata"
 }
